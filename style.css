@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    f
+}
+
+.org-color {
+    color: orange;
+    ;
+}
+
+section {
+    display: flex;
+}
